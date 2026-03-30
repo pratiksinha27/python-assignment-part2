@@ -11,20 +11,21 @@ It includes menu handling, cart operations, inventory tracking, and sales analys
 
 * Displays menu category-wise with availability status
 * Calculates total items and available items in menu
-* Identifies most expensive item and budget items
-* Implements cart system (add/remove items with validation)
+* Identifies most expensive item and items under a given price
+* Implements cart system (add, remove, and update items with validation)
 * Generates order summary with GST calculation
 * Tracks inventory using deep copy to prevent data loss
 * Shows reorder alerts for low stock items
 * Analyzes daily sales and calculates revenue
 * Finds best sales day and most ordered item
+* Uses enumerate to display all orders in a structured format
 
 ## Concepts Used
 
 * Loops (for loop)
 * Conditional statements (if-else)
 * Lists and dictionaries
-* Functions (add/remove items)
+* Functions (add, remove, update operations)
 * Nested data structures
 * Copy module (deep copy)
 * Basic data analysis
@@ -38,3 +39,4 @@ It includes menu handling, cart operations, inventory tracking, and sales analys
 ## Author
 
 Pratik Sinha
+
