@@ -6,7 +6,7 @@
 
 ## Restaurant Menu & Order Management System
 
-This project is a simple command-line system that manages restaurant menu, customer orders, inventory, and basic sales analysis.
+This assignment is a simple command-line system that manages restaurant menu, customer orders, inventory, and basic sales analysis.
 
 ---
 
